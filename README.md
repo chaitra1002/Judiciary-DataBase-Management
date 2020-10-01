@@ -1,1 +1,1 @@
-# Judiciary-DataBase-Management
+#The project is compiled and executed on the chrome browser with the localhost path extension link:-http://localhost/index.php. We have put in few screen shots in here to show the working of Judicial Database Management System.  Judiciary-DataBase-Management
