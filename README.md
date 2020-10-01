@@ -6,11 +6,11 @@ Initial Index window
 
  login page: represents the login page for the administrator. 
  
- ![](images/admin_login.png)
+ ![](images/admin login.png)
  
  Admin can retrieve case details page. After entering caseid the user will be able to see all the details of that particular case 
 
- ![](images/case_details1.png)
+ ![](images/case details1.png)
  
  Administrator Home Page:
  shows the actions that can be performed by the administrator. 
